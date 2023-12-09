@@ -3,6 +3,10 @@
 
 # **My Stats**
 
+<p  align="center" style="text-align:center; ">
+  <img  src="https://github-readme-streak-stats.herokuapp.com?user=tabib-e-alahi&theme=cobalt&border_radius=2&card_width=500)](https://git.io/streak-stats" />
+</p>
+
 <br/>
 
 <p  align="center" style="text-align:center; ">
