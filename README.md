@@ -3,7 +3,7 @@
 # **My Stats**
 
 
-<p  style=" text-align:center;">
+<p  style=" text-align:center; ">
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tabib-e-alahi&theme=dracula" />
 </p>
 
