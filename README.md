@@ -7,7 +7,7 @@
 </p>
 
 <p align="center" style="display: grid;
-  grid-template-columns: repeat(2,1fr); grid-gap: 20px;">
+  grid-template-columns: repeat(2,1fr); grid-gap: 12px;">
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabib-e-alahi&theme=dracula" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabib-e-alahi&theme=dracula" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" />
@@ -17,9 +17,14 @@
 
 ## 💪 Technologies in my skill set
 
-## **Current Learning Endeavors**
+## ✒️ **Current Learning Endeavors**
 
 - 🌱 **I’m currently incorporating - Web Development**
 - 🔭 **I’m currently working on - personal projects**
 - 👯 **I'm seeking - entrepreneurial collaborations and ventures.**
 - 🤔 **I am exploring - data science**
+
+## 👳‍♂️ **Feel welcome to get in touch**
+
+
+
