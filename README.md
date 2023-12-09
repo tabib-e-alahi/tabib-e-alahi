@@ -1,4 +1,4 @@
-<img height="400px"  width='100%' src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/main/images/Untitled.jpeg" />
+<img height="400px"  width='100%' src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/main/images/Blue%20and%20Yellow%20Subtle%20Gradients%20Business%20Promo%20LinkedIn%20Article%20Cover%20Image%20(1).png" />
 
 
 # **My Stats**
