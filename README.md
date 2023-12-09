@@ -19,6 +19,24 @@
 
 ## 💪 Technologies in my skill set
 
+<br>
+<p align="center">
+<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bootstrap.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg"/>
+
+</p>
+
+<p align="center">
+<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg"/>
+<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"/>
+</p><br/>
+
 ## ✒️ **Current Learning Endeavors**
 
 <br/>
