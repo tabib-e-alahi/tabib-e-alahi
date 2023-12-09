@@ -6,9 +6,7 @@
 <div align='center'>
 
 
-<p align="center">
-    <img width="200" src="![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tabib-e-alahi&theme=dracula)" alt="Material Bread logo">
-</p>
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tabib-e-alahi&theme=dracula)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabib-e-alahi&theme=dracula) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabib-e-alahi&theme=dracula)
 
