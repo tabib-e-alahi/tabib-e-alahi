@@ -2,32 +2,18 @@
 
 # **My Stats**
 
-
-<p >
 <p  align="center" style="text-align:center; ">
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tabib-e-alahi&theme=dracula" />
 </p>
 
 <p align="center" style="display: grid;
-  grid-template-columns: repeat(2,1fr); grid-gap: 10px;">
+  grid-template-columns: repeat(2,1fr); grid-gap: 20px;">
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabib-e-alahi&theme=dracula" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabib-e-alahi&theme=dracula" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tabib-e-alahi&theme=dracula&utcOffset=8" />
 </p>
 
-
-
-</p>
-
-<!-- <p style="display: flex; text-align:center; gap:10px">
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabib-e-alahi&theme=dracula" />
-  <img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabib-e-alahi&theme=dracula" />
-</p> -->
-
-<!-- http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula
-
-http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tabib-e-alahi&theme=dracula&utcOffset=8 -->
 
 ## 💪 Technologies in my skill set
 
