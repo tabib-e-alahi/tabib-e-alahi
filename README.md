@@ -9,7 +9,7 @@
 </p>
 
 <p align="center" style="display: grid;
-  grid-template-columns: repeat(2,1fr); column-gap: 16px;">
+  grid-template-columns: repeat(2,1fr); grid-gap: 10px;">
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabib-e-alahi&theme=dracula" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabib-e-alahi&theme=dracula" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" />
