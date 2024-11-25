@@ -1,4 +1,4 @@
-  <img height="400px"  width='1000px' src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/main/images/gitHub%20banner.png" />
+<img height="400px"  width='1000px' src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/main/images/gitHub%20banner.png" />
 
 
 # **My Stats**
@@ -9,23 +9,19 @@
 
 <br/>
 
-<p align="center" style="text-align: center;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" style="width: 500px;" />
-</p>
-
-
-
-<p align="center" width='500px'>
+<p align="center" style="text-align: center; display: grid;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula"/>
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabib-e-alahi&theme=dracula" />
-</p>
-<p align="center" width='500px'>
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabib-e-alahi&theme=dracula" />
-</p>
-<p align="center" width='500px'>
-    <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" />
-</p>
-<p align="center" width='500px'>
+   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" />
     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tabib-e-alahi&theme=dracula&utcOffset=8" />
+</p>
+
+<p align="center" width='500px'>
+   
+</p>
+<p align="center" width='500px'>
+  
 </p>
 <p align="center" width='500px'>
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabib-e-alahi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
