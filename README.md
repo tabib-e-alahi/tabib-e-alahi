@@ -13,17 +13,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula"/>
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabib-e-alahi&theme=dracula" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabib-e-alahi&theme=dracula" />
-   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" />
-    <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tabib-e-alahi&theme=dracula&utcOffset=8" />
+  <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tabib-e-alahi&theme=dracula&utcOffset=8" />
 </p>
-
-<p align="center" width='500px'>
-   
-</p>
-<p align="center" width='500px'>
-  
-</p>
-<p align="center" width='500px'>
+<p align="center" style = "width:100%; height: 100px">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabib-e-alahi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </p>
 
