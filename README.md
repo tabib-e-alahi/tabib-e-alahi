@@ -10,6 +10,9 @@
 
 <br/>
 
+<p align="center" style="width: 500px; margin: auto;">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" style="width: 100%;" />
+</p>
 
 <p align="center" width='500px'>
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabib-e-alahi&theme=dracula" />
