@@ -10,20 +10,16 @@
 
 <br/>
 
-<p align="center"style="display: ;
-  grid-template-columns: repeat(1,1fr); grid-gap: 12px;">
+<p align="center" width='1000px'>
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabib-e-alahi&theme=dracula" />
 </p>
-<p align="center"style="display: ;
-  grid-template-columns: repeat(1,1fr); grid-gap: 12px;">
+<p align="center" width='1000px'>
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabib-e-alahi&theme=dracula" />
 </p>
-<p align="center"style="display: ;
-  grid-template-columns: repeat(1,1fr); grid-gap: 12px;">
+<p align="center" width='1000px'>
     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" />
 </p>
-<p align="center"style="display: ;
-  grid-template-columns: repeat(1,1fr); grid-gap: 12px;">
+<p align="center" width='1000px'>
     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tabib-e-alahi&theme=dracula&utcOffset=8" />
 </p>
 
