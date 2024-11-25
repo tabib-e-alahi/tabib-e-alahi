@@ -1,4 +1,4 @@
-<img height="400px"  width='1000px' src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/main/images/gitHub%20banner.png" />
+  <img height="400px"  width='1000px' src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/main/images/gitHub%20banner.png" />
 
 
 # **My Stats**
@@ -6,27 +6,24 @@
 <p  align="center" style="text-align:center; ">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=tabib-e-alahi&theme=cobalt&border_radius=2&card_width=500)](https://git.io/streak-stats" />
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tabib-e-alahi&" alt="tabib-e-alahi" /></p>
+
 
 <br/>
 
-<p align="center" style="width: 100%;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabib-e-alahi&theme=dracula" style="width: 100%; max-width: 100%; height: auto;" />
-</p>
 
-
-<p align="center" width='1000px'>
+<p align="center" width='500px'>
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabib-e-alahi&theme=dracula" />
 </p>
-<p align="center" width='1000px'>
+<p align="center" width='500px'>
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabib-e-alahi&theme=dracula" />
 </p>
-<p align="center" width='1000px'>
+<p align="center" width='500px'>
     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" />
 </p>
-<p align="center" width='1000px'>
+<p align="center" width='500px'>
     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tabib-e-alahi&theme=dracula&utcOffset=8" />
 </p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tabib-e-alahi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 ## 💪 Technologies in my skill set
