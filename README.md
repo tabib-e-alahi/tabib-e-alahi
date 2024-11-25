@@ -23,7 +23,10 @@
 <p align="center" width='500px'>
     <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tabib-e-alahi&theme=dracula&utcOffset=8" />
 </p>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tabib-e-alahi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center" width='500px'>
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabib-e-alahi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
 
 
 ## 💪 Technologies in my skill set
