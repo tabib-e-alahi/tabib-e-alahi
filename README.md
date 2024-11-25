@@ -10,12 +10,7 @@
 
 <br/>
 
-<p  align="center" style="text-align:center; ">
-  <img  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tabib-e-alahi&theme=dracula" />
-</p>
-
-<p align="center" style="display: grid;
-  grid-template-columns: repeat(2,1fr); grid-gap: 12px;">
+<p align="center">
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tabib-e-alahi&theme=dracula" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabib-e-alahi&theme=dracula" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" />
