@@ -7,8 +7,12 @@
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=tabib-e-alahi&theme=cobalt&border_radius=2&card_width=500)](https://git.io/streak-stats" />
 </p>
 
-
 <br/>
+
+<p align="center" style="text-align: center;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" style="width: 500px;" />
+</p>
+
 
 <p align="center" style="width: 500px; margin: auto;">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tabib-e-alahi&theme=dracula" style="width: 100%;" />
