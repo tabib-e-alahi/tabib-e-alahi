@@ -6,6 +6,7 @@
 <p  align="center" style="text-align:center; ">
   
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=tabib-e-alahi&theme=cobalt&border_radius=2&card_width=500)](https://git.io/streak-stats" />
+  [![GitHub Streak](https://streak-stats.demolab.com?user=tabib-e-alahi&theme=dark&hide_border=true&card_width=600&card_height=371)](https://git.io/streak-stats)
 </p>
 
 <br/>
