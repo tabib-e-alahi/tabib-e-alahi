@@ -1,7 +1,42 @@
 <img  src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/refs/heads/main/images/github_final.png" />
 
-<p style="text-align:center; margin-top:20px;">
-  I’m <b>Tabib E Alahi</b>, a Full-Stack Web Developer with a B.Sc. in Computer Science and Engineering. I build modern, scalable web applications using JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, Prisma, PostgreSQL, MongoDB. I focus on creating clean user interfaces, secure backend systems, well-structured APIs, and production-ready applications that solve real business problems.
+<h1 align="center">Hi 👋, I'm Tabib E Alahi</h1>
+<h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
+
+I’m a Full-Stack Web Developer with a B.Sc. in Computer Science and Engineering, focused on building clean, scalable, and production-ready web applications.
+
+I work with JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, Prisma, PostgreSQL, and Redux to build complete web solutions from frontend interfaces to backend APIs and database systems.
+
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Professional Summary
+
+> Building modern web applications with clean UI, scalable architecture, and real-world functionality.
+
+I’m a **Full-Stack Web Developer** with a strong foundation in **Computer Science & Engineering**.  
+I enjoy building complete web applications from pixel-perfect frontend interfaces to secure backend APIs and database systems.
+
+My focus is on creating **production-ready digital products** with smooth user experience, structured code, authentication systems, role-based dashboards, and scalable project architecture.
+
+
+## 🛠️ Tech Stack
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" height="52" />
+</p>
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,prisma&theme=dark" height="52" />
+</p>
+
+### Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres&theme=dark" height="52" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm&theme=dark" height="52" />
 </p>
 
 # **My Stats**
@@ -9,7 +44,6 @@
 <p  align="center" style="text-align:center; ">
   <img  src="https://github-readme-streak-stats.herokuapp.com?user=tabib-e-alahi&theme=cobalt&border_radius=2&card_width=600)](https://git.io/streak-stats" />
 </p>
-  <!-- <img  src="https://streak-stats.demolab.com?user=tabib-e-alahi&theme=dark&hide_border=true&card_width=600&card_height=371)](https://git.io/streak-stats" /> -->
 
 <br/>
 
@@ -19,50 +53,38 @@
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tabib-e-alahi&theme=dracula" />
   <img  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tabib-e-alahi&theme=dracula&utcOffset=8" />
 </p>
-<p align="center" style = "width:100%; height: 100px">
-    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tabib-e-alahi&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-</p>
-
-
-
-## 💪 Technologies in my skill set
-
-<br>
-<p align="center">
-<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Firebase-Dark.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Bootstrap.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/TailwindCSS-Dark.svg"/>
-
-</p>
-
-<p align="center">
-<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/React-Dark.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/MongoDB.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/ExpressJS-Dark.svg"/>
-<img height="50" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NodeJS-Dark.svg"/>
-</p><br/>
-
-## ✒️ **Current Learning Endeavors**
 
 <br/>
-
-- 🌱 **I’m currently incorporating - Web Development**
-- 🔭 **I’m currently working on - personal projects**
-- 👯 **I'm seeking - entrepreneurial collaborations and ventures.**
-- 🤔 **I am exploring - data science**
-
-## 👳‍♂️ **Feel welcome to get in touch**
-
 <br/>
 
-***<p align="center">
-[<img height="60" src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/main/images/facebook.png">](https://www.facebook.com/etabib.alahi) [<img height="60" src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/main/images/linkedin.png">](https://www.linkedin.com/in/tabib-e-alahi-b0149a27)</p>***
+## ✒️ Current Focus
+
+🌱 I’m currently improving — **Advanced Full-Stack Web Development**  
+🔭 I’m currently working on — **MERN, Next.js, and production-ready personal projects**  
+👯 I’m open to — **full-stack development collaborations, SaaS ideas, and real-world web app projects**  
+🤔 I’m exploring — **system architecture, secure authentication, API design, performance optimization, and deployment workflows**
 
 
+<br/>
+<br/>
 
+## 🤝 Connect With Me
 
-
+<p  align="center">
+  <a href="https://github.com/tabib-e-alahi" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github&theme=dark" height="48" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/tabib-e-alahi/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:tabib.e.alahi@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/gmail-new.png" height="48" alt="Email" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://latest-portfolio-mu-self.vercel.app" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="48" alt="Portfolio" />
+  </a>
+</p>
 
