@@ -1,5 +1,8 @@
 <img  src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/refs/heads/main/images/github_final.png" />
 
+<p style="text-align:center; margin-top:20px;">
+  I’m <b>Tabib E Alahi</b>, a Full-Stack Web Developer with a B.Sc. in Computer Science and Engineering. I build modern, scalable web applications using JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, Prisma, PostgreSQL, MongoDB. I focus on creating clean user interfaces, secure backend systems, well-structured APIs, and production-ready applications that solve real business problems.
+</p>
 
 # **My Stats**
 
