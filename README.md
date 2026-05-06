@@ -1,13 +1,15 @@
 <img  src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/refs/heads/main/images/github_final.png" />
 
-<h1 align="center">Hi 👋, I'm Tabib E Alahi</h1>
+<h1 align="center" style="margin-left: 10px;">Hi 👋, I'm Tabib E Alahi</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 
 I’m a Full-Stack Web Developer with a B.Sc. in Computer Science and Engineering, focused on building clean, scalable, and production-ready web applications.
 
 I work with JavaScript, TypeScript, React.js, Next.js, Node.js, Express.js, MongoDB, Prisma, PostgreSQL, and Redux to build complete web solutions from frontend interfaces to backend APIs and database systems.
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Professional Summary
+<br/>
+
+## ✦ Professional Summary
 
 > Building modern web applications with clean UI, scalable architecture, and real-world functionality.
 
@@ -16,6 +18,7 @@ I enjoy building complete web applications from pixel-perfect frontend interface
 
 My focus is on creating **production-ready digital products** with smooth user experience, structured code, authentication systems, role-based dashboards, and scalable project architecture.
 
+<br/>
 
 ## 🛠️ Tech Stack
 
@@ -39,6 +42,8 @@ My focus is on creating **production-ready digital products** with smooth user e
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,npm&theme=dark" height="52" />
 </p>
 
+<br/>
+
 # **My Stats**
 
 <p  align="center" style="text-align:center; ">
@@ -55,7 +60,6 @@ My focus is on creating **production-ready digital products** with smooth user e
 </p>
 
 <br/>
-<br/>
 
 ## ✒️ Current Focus
 
@@ -65,7 +69,6 @@ My focus is on creating **production-ready digital products** with smooth user e
 🤔 I’m exploring — **system architecture, secure authentication, API design, performance optimization, and deployment workflows**
 
 
-<br/>
 <br/>
 
 ## 🤝 Connect With Me
