@@ -1,4 +1,4 @@
-<!-- <img height="400px"  width='1000px' src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/main/images/gitHub%20banner.png" /> -->
+<img height="400px"  width='1000px' src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/refs/heads/main/images/github_banner_latest.png" />
 
 
 # **My Stats**
