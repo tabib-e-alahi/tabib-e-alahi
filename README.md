@@ -1,5 +1,7 @@
 <img  src="https://raw.githubusercontent.com/tabib-e-alahi/tabib-e-alahi/refs/heads/main/images/github_final.png" />
 
+![GitHub Views](https://komarev.com/ghpvc/?username=tabib-e-alahi&color=FAC151)
+
 <h1 align="center" style="margin-left: 10px;">Hi 👋, I'm Tabib E Alahi</h1>
 <h3 align="center">A passionate Full-Stack Web Developer from Bangladesh</h3>
 
